@@ -1,3 +1,11 @@
+# Unit 1. Introduction to web programming
+
+In this unit we'll start to work with JavaScript.
+
+
+
+## 
+
 1. Features of web browsers..
 2. Web Programming languages and technologies on client-side: HTML, CSS, JavaScript, Applets, AJAX, FLASH
 3. Introduction to JavaScript
