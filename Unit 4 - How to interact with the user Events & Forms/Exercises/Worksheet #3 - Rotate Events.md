@@ -6,3 +6,6 @@ a) En primer lugar debes capturar los eventos de rotación y utlizando el ángul
 ```js
 document.getElementById("myDIV").style.transform = "rotate(7deg)";
 ``` 
+Por tanto, es tan sólo cambiar el 7 del ejemplo anterior por el ángulo obtenido.
+
+b) Una vez consigas rotar el DIV intenta aplicar transformaciones en 3D usando los 3 ángulos. Para ello puedes basarte en el siguiente tutorial: https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Using_device_orientation_with_3D_transforms
