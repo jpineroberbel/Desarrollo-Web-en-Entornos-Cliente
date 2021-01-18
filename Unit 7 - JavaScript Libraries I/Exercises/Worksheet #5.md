@@ -2,7 +2,7 @@
 
 El presente ejercicio consiste en el desarrollo de una aplicación web mediante VueJS. El alumno/a puede decidir las partes a desarrollar y según ello vendrá determinada la nota final.
 
-![Esta es una imagen de ejemplo](https://www.iesayala.com/moodle/pluginfile.php/8200/mod_page/content/7/Captura%20de%20pantalla_2019-01-21_22-31-07.png)
+![Esta es una imagen de ejemplo](https://github.com/jpineroberbel/Desarrollo-Web-en-Entornos-Cliente/blob/master/Unit%207%20-%20JavaScript%20Libraries%20I/Exercises/Captura%20de%20pantalla_2019-01-21_22-31-07.png)
 
 Contenido Mínimo.
 
