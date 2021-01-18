@@ -2,6 +2,8 @@
 
 El presente ejercicio consiste en el desarrollo de una aplicación web mediante VueJS. El alumno/a puede decidir las partes a desarrollar y según ello vendrá determinada la nota final.
 
+![Esta es una imagen de ejemplo](https://www.iesayala.com/moodle/pluginfile.php/8200/mod_page/content/7/Captura%20de%20pantalla_2019-01-21_22-31-07.png)
+
 Contenido Mínimo.
 
 Se pretende desarrollar una aplicación para gestionar recordatorios. El proyecto debe ser puesto en producción. La interfaz debe ser un clon de la siguiente:
