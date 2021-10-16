@@ -1,13 +1,15 @@
-/*
-  EXAMPLE TASK:
+# OOP Exercises
+
+1) EXAMPLE TASK:
     - Write an Airplane class whose constructor initializes `name` from an argument.
     - All airplanes built with Airplane should initialize with an `isFlying` property of false.
     - Give airplanes the ability to `.takeOff()` and `.land()`:
         + If a plane takes off, its `isFlying` property gets set to true.
         + If a plane lands, its `isFlying` property gets set to false.
-*/
+
 
 // EXAMPLE SOLUTION CODE:
+```
 class Airplane {
   constructor(name) {
     this.name = name;
@@ -20,7 +22,7 @@ class Airplane {
     this.isFlying = false;
   }
 }
-
+```
 /*
 // 👇 COMPLETE YOUR WORK BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
