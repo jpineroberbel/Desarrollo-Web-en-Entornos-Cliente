@@ -33,7 +33,7 @@ Do you like treasure hunts? In this problem you are to write a program to explor
 
 4) Develop a function wich be able to create a random treasure hunt like the previous one. As arguments it will recibe the dimensions of the array (at least 5x5) and must return a valid treasure hunt array.
 
-5) 2. Write a program to search for the "saddle points" in a 5 by 5 array of integers. A saddle point is a cell whose value is greater than or equal to any in its row, and less than or equal to any in its column. There may be more than one saddle point in the array. Print out the coordinates of any saddle points your program finds. Print out "No saddle points" if there are none.
+5) Write a program to search for the "saddle points" in a 5 by 5 array of integers. A saddle point is a cell whose value is greater than or equal to any in its row, and less than or equal to any in its column. There may be more than one saddle point in the array. Print out the coordinates of any saddle points your program finds. Print out "No saddle points" if there are none.
 
 6) One classic method for composing secret messages is called a square code.  The spaces are removed from the english text
 and the characters are written into a square (or rectangle).  For example, the sentence "If man was meant to stay on the
@@ -57,6 +57,6 @@ Write a function, that recibe a message and return it coded (have the maximum me
 have a nice day                                 hae and via ecy
 feed the dog                                    fto ehg ee  dd
 chill out                                       clu hlt io
-``
+```
 
 7) Write a function that return the original message from one coded recieved as argument.
