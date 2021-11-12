@@ -1,9 +1,16 @@
 Validación de Formularios
 -------------------------
 
- 
-
-Crea un formulario típico de registro para tu web. Debe contener al menos campos
+ 1) Haciendo uso de expresiones regulares crea funciones para validar los campos que se indican a continuación. La función recibirá un parámetro de tipo string con el valor a validar y debe devolver true o false según cumpla los requisitos de validación:
+ a) validarMayuscula: El parámetro debe contener al menos un carácter en mayúscula
+ b) validarCaracteresEspeciales: El parámetro debe contener al menos uno de los siguientes caracteres: !@#$%^&
+ c) validarCorreo: El parámetro debe tener el formato correcto de un email
+ d) validarTarjetaCredito: El parámetro debe tener el formato correcto de una tarjeta de crédito
+ e) validarLongitud: El parámetro debe tener al menos 8 caracteres.
+ f) validarNumero: El parámetro debe contener al menos un dígito.
+ 
+ 
+ 2) Crea un formulario típico de registro para tu web. Debe contener al menos campos
 para introducir nombre, apellidos, DNI, Teléfono, email y nombre de usuario.
 Todos los campos son obligatorios, y debes validar el mayor número posible de
 ellos haciendo uso de expresiones regulares. El nombre de usuario debe estar
