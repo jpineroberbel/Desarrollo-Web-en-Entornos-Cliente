@@ -17,8 +17,6 @@ configurar el color de fondo, de párrafo y el tamaño de la letra.
 3) ¿Cómo podemos hacer que la segunda cookie se borre automáticamente al cerrar
 el navegador? Compruébalo.  
   
-OPCIONAL \________________________________________________\_  
-  
 4) Crea 3 funciones genéricas para el manejo de cookies:  
     a) CrearCookie(identificador,valor,fechaExpiracion): Crea la cookie con sólo
 un par identificador=valor.  
