@@ -198,3 +198,6 @@ Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
 6. Hacer un commit con el mensaje “Añadido nuevo autor.”
 7. Subir los cambios de la rama autoria al repositorio remoto en GitHub.
 8. Hacer un Pull Request de los cambios en la rama autoria.
+
+
+Ejercicios extraidos del excelente sitio [aprendeconalf.es](https://aprendeconalf.es/docencia/git/)
