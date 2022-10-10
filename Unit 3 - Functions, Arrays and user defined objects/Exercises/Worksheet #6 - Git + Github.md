@@ -200,4 +200,6 @@ Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
 8. Hacer un Pull Request de los cambios en la rama autoria.
 
 
-Ejercicios extraidos del excelente sitio [aprendeconalf.es](https://aprendeconalf.es/docencia/git/)
+>
+> Ejercicios extraidos del excelente sitio [aprendeconalf.es](https://aprendeconalf.es/docencia/git/)
+>
