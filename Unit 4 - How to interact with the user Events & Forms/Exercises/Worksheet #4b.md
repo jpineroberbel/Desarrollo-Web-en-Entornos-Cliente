@@ -1,4 +1,4 @@
-1. JS Guess the Color Game
+## JS Guess the Color Game
 
   Coding a color guessing game with JavaScript is quite straightforward:
     1. You build a game where the player will see a single RGB value for a color.
