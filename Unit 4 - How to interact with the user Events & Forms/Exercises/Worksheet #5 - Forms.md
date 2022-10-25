@@ -31,7 +31,8 @@ mostrar información al usuario que le indique si está correcto o no
 
 Debes validar correctamente todos los campos y resaltar los campos incorrectos.
 
-5) Trata de reproducir el formulario siguiente para la inserción y validación de los datos de una tarjeta de crédito:
+5) Crea un formulario para la introducción y validación de los datos de una tarjeta igual al de la imagen siguiente:
 
-![image](https://user-images.githubusercontent.com/8781623/197763595-d1d50d13-8456-4ae3-9347-20f3d2f977e0.png)
+![Material-Design-3D-Credit-Card-Form-with-Microinteractions](https://user-images.githubusercontent.com/8781623/197763981-1320efe1-f447-4f81-ad1e-56af61503ffc.gif)
+
 
