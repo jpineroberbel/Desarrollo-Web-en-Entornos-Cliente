@@ -21,5 +21,13 @@ Conforme sale el foco de cada input, deberás validar el contenido de éste y
 mostrar información al usuario que le indique si está correcto o no
 
 3) Crea una web como la de la imagen siguiente en la que muestres información en tiempo real acerca de la validación del nombre de usuario:
+
 ![image](https://user-images.githubusercontent.com/8781623/197762683-379b5d10-c128-4636-b0a8-4a5d49ab163a.png)
+
+
+4) Crea un formulario de registro idéntico al siguiente:
+
+![image](https://user-images.githubusercontent.com/8781623/197763201-37dcfdf9-47df-44f1-af2c-d1eed7954f7b.png)
+
+Debes validar correctamente todos los campos y resaltar los campos incorrectos.
 
