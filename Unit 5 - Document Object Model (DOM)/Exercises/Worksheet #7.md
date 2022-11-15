@@ -10,8 +10,6 @@ As you build the game, you will probably come up with a few ideas on how to make
 
 Also, you may want to create different difficulty levels for your game. For example:
 
-The ball could move faster after a given number of rounds
-To make things trickier for the player, allow for the computer to move the paddle more quickly
-Pong is a rather complex project if you are entirely new to JavaScript. I think the most difficult part of this project idea is to make sure the computer doesn’t always win.
+- The ball could move faster after a given number of rounds
+- To make things trickier for the player, allow for the computer to move the paddle more quickly
 
-Hence, make sure you have a couple of easier projects under your belt before tackling this one.
