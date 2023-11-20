@@ -1,4 +1,5 @@
-# 1) Cargar contenido dinámicamente usando AJAX. Crear una web en la que, mediante desplegables, pueda seleccionar una comunidad. Inicialmente se cargan tan sólo las comunidades. Al seleccionar una, aparece otro desplegable con las provincias y así sucesivamente hasta llegar a los municipios de esa provincia.
+# 1) Cargar contenido dinámicamente usando AJAX. 
+Crear una web en la que, mediante desplegables, pueda seleccionar una comunidad. Inicialmente se cargan tan sólo las comunidades. Al seleccionar una, aparece otro desplegable con las provincias y así sucesivamente hasta llegar a los municipios de esa provincia.
 
 Para obtener estos datos vamos a trabajar con una API que los proporciona: geoapi.es
 
