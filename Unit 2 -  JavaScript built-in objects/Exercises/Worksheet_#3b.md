@@ -29,7 +29,6 @@ In order to run the function, you'll need to know how to [load javascript on an 
 
 ![img](https://www.teaching-materials.org/javascript/images/console.png)
 
-See Solution
 
 ------
 
