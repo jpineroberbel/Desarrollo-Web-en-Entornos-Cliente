@@ -40,9 +40,6 @@ In order to run the function, you'll need to know how to [load javascript on an 
 Update your program to allow such numbers. (Hint: Remove the dashes from the input string before checking if the input credit card number is valid.)
 
 
-
-See Solution
-
 ------
 
 **Bonus #2:** Return an object indicating whether the credit card is valid, and if not, what the error is
