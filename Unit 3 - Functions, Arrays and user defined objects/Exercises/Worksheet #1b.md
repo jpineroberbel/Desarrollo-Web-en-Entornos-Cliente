@@ -125,37 +125,6 @@ const showAlert = (name) => {return alert(alerts[(Math.floor(Math.random()*alert
 
 ***
 
-## 5. Nested functions
-
-Transform this function that rotates elements in your browser + remember about transforming also the traditional function in the `.map`:
-
-```js
-function oneTwoThreeRotate(){
-    Array.prototype.slice.call(document.querySelectorAll('div,p,span,img,a,body')).map(function(tag){
-        tag.style['transform'] = 'rotate(' + (Math.floor(Math.random() * 3) - 1) + 'deg)';
-    })
-}
-
-oneTwoThreeRotate()
-```
-
-<details><summary>ANSWER - CLICK ME!</summary>
-
-This is a possible answer:
-
-```js
-const oneTwoThreeRotate = () => {
-    Array.prototype.slice.call( document.querySelectorAll('div,p,span,img,a,body')).map(tag => tag.style['transform'] = 'rotate(' + (Math.floor(Math.random() * 3) - 1) + 'deg)'
-    )
-}
-
-oneTwoThreeRotate()
-```
-
-Here we need the curly brackets because we have a multiline method but we don't need a return statement because we are not returning anything.
-</details>
-
-***
 ## 6. Write an arrow function that returns the string, Hello, I am ${name}, and I am ${age} years old.
 
 ***
