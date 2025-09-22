@@ -40,6 +40,3 @@
    - Si es un número válido  
    - Si es entero o decimal  
    - Si es seguro o no  
-
-13. **Generador de binarios aleatorios**  
-   Genera un número aleatorio entre 0 y 255 y conviértelo a binario.
