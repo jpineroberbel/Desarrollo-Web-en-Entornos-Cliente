@@ -34,35 +34,12 @@
 
 ---
 
-## Nivel 3 – Constantes numéricas
-9. **Número máximo y mínimo representable**  
-   Muestra los valores de `Number.MAX_VALUE` y `Number.MIN_VALUE`.
-
-10. **Enteros seguros**  
-   Verifica si los siguientes números son enteros seguros con `Number.isSafeInteger`:  
-   - `9007199254740991`  
-   - `9007199254740992`
-
-11. **Epsilon**  
-   Demuestra el uso de `Number.EPSILON` comprobando si `0.1 + 0.2` es realmente igual a `0.3`.
-
----
-
-## Nivel 4 – Retos aplicados
+## Nivel 3 – Retos aplicados
 12. **Validador de números**  
    Escribe una función que reciba una cadena y devuelva:  
    - Si es un número válido  
    - Si es entero o decimal  
    - Si es seguro o no  
 
-13. **Formato de precios**  
-   Dado un precio `1234.567`, formátalo como:  
-   - `1234.57` (2 decimales)  
-   - `1.23e+3` (notación científica)  
-   - `1235` (redondeado sin decimales)
-
-14. **Generador de binarios aleatorios**  
+13. **Generador de binarios aleatorios**  
    Genera un número aleatorio entre 0 y 255 y conviértelo a binario.
-
-15. **Conversión de base genérica**  
-   Crea una función que reciba un número y una base (2–36) y lo devuelva representado en esa base con `.toString`.
