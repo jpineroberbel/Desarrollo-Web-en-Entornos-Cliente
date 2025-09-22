@@ -7,8 +7,8 @@
 2. **Redondeo simple**  
    Pide al usuario un número decimal y muestra:  
    - Su valor redondeado (`Math.round`)  
-   - Su techo (`Math.ceil`)  
-   - Su piso (`Math.floor`)
+   - Su redondeo por exceso (`Math.ceil`)  
+   - Su redondeo por defecto (`Math.floor`)
 
 3. **Potencias y raíces**  
    - Calcula \( 5^3 \) con `Math.pow`.  
@@ -41,7 +41,6 @@
 
 10. **Logaritmos**  
    - Calcula el logaritmo natural de 10 (`Math.log`).  
-   - Calcula el logaritmo en base 10 de 1000 (pista: usa cambio de base con `Math.log`).
 
 ---
 
@@ -55,11 +54,8 @@
    \sqrt{(x2 - x1)^2 + (y2 - y1)^2}
    \]
 
-13. **Normalizar un ángulo**  
-   Escribe una función que reciba un ángulo en grados y lo normalice en el rango 0–360 usando operaciones con `Math`.
-
-14. **Simulación de ruleta**  
+13. **Simulación de ruleta**  
    Simula una ruleta que tenga 36 números. Usa `Math.random` para elegir el número ganador.
 
-15. **Generador de contraseñas simples**  
+14. **Generador de contraseñas simples**  
    Usa `Math.random` y un conjunto de caracteres para crear una contraseña aleatoria de 8 caracteres.
