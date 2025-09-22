@@ -79,7 +79,7 @@ for(let i = 0; i < 5; i++) {
 ---
 
 ## Ejercicio 7: Número primo
-**Objetivo:** Practicar bucles anidados y operadores.  
+**Objetivo:** Practicar bucles y operadores.  
 **Enunciado:** Pide un número e indica si es primo o no.
 
 ```javascript
