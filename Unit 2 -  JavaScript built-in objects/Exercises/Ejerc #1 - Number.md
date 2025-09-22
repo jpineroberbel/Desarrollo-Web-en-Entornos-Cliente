@@ -39,4 +39,3 @@
    Escribe una función que reciba una cadena y devuelva:  
    - Si es un número válido  
    - Si es entero o decimal  
-   - Si es seguro o no  
