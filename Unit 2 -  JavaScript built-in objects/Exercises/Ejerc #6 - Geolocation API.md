@@ -1,7 +1,5 @@
 # Ejercicios para practicar la Geolocation API en JavaScript
 
-Una lista progresiva de ejercicios para aprender a trabajar con la Geolocation API.
-
 ---
 
 ## 🔹 Nivel Básico
