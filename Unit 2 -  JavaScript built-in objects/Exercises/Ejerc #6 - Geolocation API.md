@@ -12,8 +12,8 @@ Una lista progresiva de ejercicios para aprender a trabajar con la Geolocation A
 
 2. **Mostrar la ubicación en la página**
    - Obtener latitud y longitud.
-   - Insertarlas en el DOM dentro de un `<p>`.
-
+   - Insertarlas en body de tu página
+     
 3. **Manejo de errores**
    - Implementar `onError` en `getCurrentPosition`.
    - Mostrar mensajes si el usuario deniega permisos o si ocurre un error.
