@@ -1,4 +1,4 @@
-# 📝 Enunciado del Proyecto: Reloj Digital con Eventos
+# 📝 Enunciado del Proyecto: Reloj Digital
 
 ## 🎯 Objetivo
 
