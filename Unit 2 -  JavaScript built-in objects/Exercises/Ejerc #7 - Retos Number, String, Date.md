@@ -9,7 +9,7 @@
    Ejemplo: `3 dados de 6 caras → "4, 2, 6 → total 12"`
 
 3. **Generador de identificadores únicos**  
-   Genera un string alfanumérico aleatorio de 16 caracteres usando `Math.random` y `.toString(36)`.
+   Genera un string alfanumérico aleatorio de 16 caracteres usando `Math.random`.
 
 ---
 
