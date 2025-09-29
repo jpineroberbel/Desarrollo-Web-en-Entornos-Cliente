@@ -22,7 +22,7 @@
    Encuentra en qué posición aparece la primera y la última vez la letra `"o"` en `"Hola mundo"`.
 
 6. **Subcadenas**  
-   Dada la cadena `"JavaScript es genial"`, extrae `"JavaScript"` y `"genial"` usando `.substring` o `.slice`.
+   Dada la cadena `"JavaScript es genial"`, extrae `"JavaScript"` y `"genial"` usando `.substring` y `.slice`.
 
 7. **Reemplazo de texto**  
    Reemplaza `"perro"` por `"gato"` en la frase `"El perro corre rápido"`.
