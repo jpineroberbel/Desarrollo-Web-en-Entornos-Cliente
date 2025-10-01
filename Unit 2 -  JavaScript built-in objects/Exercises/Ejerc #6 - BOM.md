@@ -15,4 +15,5 @@ Crea una aplicación web en **HTML + JavaScript** que use el **Browser Object Mo
 
 ---
 La interfaz debe ser exactamente tal y como se muestra en la siguiente imagen:
-<img width="2048" height="2732" alt="169 254 168 125_5500_bom html(iPad Pro) (1)" src="https://github.com/user-attachments/assets/29be7cfa-1bf9-4c5f-a762-7c69bd02828b" />
+<img width="991" height="878" alt="image" src="https://github.com/user-attachments/assets/001252cc-e006-4fde-a51e-5f76b01d6c37" />
+
