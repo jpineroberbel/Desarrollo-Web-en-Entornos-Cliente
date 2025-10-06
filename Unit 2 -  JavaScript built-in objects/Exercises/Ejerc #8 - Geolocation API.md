@@ -33,7 +33,7 @@
 
 7. **Calcular la distancia entre dos ubicaciones**
    - Guardar dos pares de coordenadas (tu ubicación y otra fija).
-   - Implementar una función que use la fórmula de Haversine para calcular la distancia.
+   - Implementar una función que, usando el método distance de la API de Leaflet, calcule la distancia.
 
 ---
 
