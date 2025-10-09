@@ -1,7 +1,6 @@
 # 🧩 Ejercicios de Arrays en JavaScript
 
-Una recopilación progresiva de ejercicios para practicar **arrays** y sus **métodos más comunes** en JavaScript.
-
+En caso de necesitar crear una función, solo podrás usar funciones flecha (arrow functions)
 ---
 
 ## 🟢 Nivel Básico – Fundamentos de Arrays
@@ -89,23 +88,7 @@ Una recopilación progresiva de ejercicios para practicar **arrays** y sus **mé
 19. **Extraer elementos únicos y ordenarlos** de menor a mayor.  
     - Métodos: `Set`, `sort()`.
 
-20. **Usar chaining de métodos** (`map()`, `filter()`, `reduce()` en cadena).  
-    ```js
-    const numeros = [1, 2, 3, 4, 5, 6];
-    const resultado = numeros
-      .filter(n => n % 2 === 0)
-      .map(n => n * n)
-      .reduce((acc, n) => acc + n, 0);
-    console.log(resultado); // 56
-    ```
+20. **Usar encadenado de métodos**: Dado un array de números, debes calcular la suma de los cuadrados de los números pares.
+      - Métodos: `map()`, `filter()`, `reduce()` en cadena 
 
 ---
-
-## 🧠 Retos de Lógica con Arrays
-
-21. **Revertir manualmente un array** sin usar `reverse()`.  
-22. **Comprobar si dos arrays son iguales** (mismos elementos en mismo orden).  
-23. **Intercalar elementos** de dos arrays.  
-    - Ejemplo: `[1,2,3]` y `["a","b","c"]` → `[1,"a",2,"b",3,"c"]`.
-24. **Encontrar el segundo número mayor** en un array.  
-25. **Rotar un array** `n` posiciones hacia la derecha o izquierda.  
