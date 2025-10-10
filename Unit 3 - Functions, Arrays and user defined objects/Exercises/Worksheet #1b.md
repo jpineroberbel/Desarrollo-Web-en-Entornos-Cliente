@@ -75,24 +75,6 @@ function stringLength(str){
 stringLength("willynilly")
 ```
 
-<details><summary>ANSWER - CLICK ME!</summary>
-
-This is a possible answer:
-
-```js
-const stringLength = str => {
-    let length = str.length
-    console.log(`the length of "${str}" is:`, length)
-    return str.length
-}
-
-stringLength("willynilly")
-```
-
-As you see, here you need an explicit return statement and curly brackets because it is a multiline function body.
-</details>
-
-
 ***
 
 ## 4. One argument
@@ -108,20 +90,6 @@ function showAlert(name){
 
 showAlert("you ball of fluff")
 ```
-
-<details><summary>ANSWER - CLICK ME!</summary>
-
-This is a possible answer:
-
-```js
-const showAlert = (name) => alert(alerts[(Math.floor(Math.random()*alerts.length))] + `, ${name}!`)
-```
-
-or:
-```js
-const showAlert = (name) => {return alert(alerts[(Math.floor(Math.random()*alerts.length))] + `, ${name}!`)}
-```
-</details>
 
 ***
 
