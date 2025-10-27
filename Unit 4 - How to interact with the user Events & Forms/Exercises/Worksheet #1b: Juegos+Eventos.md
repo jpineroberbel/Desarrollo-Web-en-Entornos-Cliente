@@ -81,5 +81,6 @@ Cada minijuego tiene una **interfaz HTML estática** y los eventos controlan su 
 **Eventos:** `click`
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/98b55c32-4ba4-493a-b212-ad8eb296b0fb" />
 
 ---
