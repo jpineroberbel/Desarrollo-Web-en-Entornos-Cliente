@@ -41,19 +41,5 @@ El objetivo del jugador es **romper todos los bloques sin dejar que la pelota ca
 
 ---
 
-## ⚙️ Requisitos técnicos (DOM y JS)
 
-- Usar **JavaScript puro (sin librerías externas)**.
-- Manipular elementos del DOM para:
-  - Crear y eliminar bloques dinámicamente.
-  - Actualizar el marcador.
-  - Controlar la posición de la pelota y la barra.
-- Detectar colisiones mediante coordenadas (`getBoundingClientRect()` o `offsetTop`, `offsetLeft`).
-- Usar `requestAnimationFrame()` o `setInterval()` para el bucle principal del juego.
-
----
-
-## 🎨 Interfaz sugerida
-
-### Estructura de archivos
 
