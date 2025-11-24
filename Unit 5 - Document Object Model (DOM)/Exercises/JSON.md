@@ -1,7 +1,7 @@
 
 <img width="1024" height="1536" alt="interfaz" src="https://github.com/user-attachments/assets/97638c26-5b7a-4e91-bbc5-10a046fee91e" />
 
-# Ejercicio: Maquetación de datos JSON con `<div>`
+# Ejercicio 1: Maquetación de datos JSON con `<div>`
 
 A continuación se proporciona un conjunto de datos en formato JSON que describe varios colores, junto con sus categorías, tipos y códigos en distintos formatos.
 
@@ -82,7 +82,7 @@ Maquetar esta información utilizando únicamente elementos `<div>`, organizánd
 }
 ```
 
-# Ejercicio: Maquetación de datos de Películas
+# Ejercicio 2: Maquetación de datos de Películas
 
 A continuación se proporciona un conjunto de datos de películas en formato JSON.
 
