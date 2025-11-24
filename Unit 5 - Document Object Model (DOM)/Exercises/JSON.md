@@ -80,7 +80,7 @@ Maquetar esta información utilizando únicamente elementos `<div>`, organizánd
     }
   ]
 }
-
+```
 
 # Ejercicio: Maquetación de datos de Películas
 
