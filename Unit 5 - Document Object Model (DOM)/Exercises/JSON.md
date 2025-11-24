@@ -90,7 +90,7 @@ A continuación se proporciona un conjunto de datos de películas en formato JSO
 
 Maquetar esta información, organizándola de forma clara y estructurada.
 
-
+```json
 {
   "Search": [
     {
