@@ -17,6 +17,7 @@ Requisitos:
 - Para cada nota es posible cambiar su prioridad pulsando en el botón de la nueva prioridad.
 - Para cada nota es posible cambiar su estado (completada o no) pulsando en el círculo de la izquierda.
 - Para cada nota es posible borrarla pulsando en el botón de la derecha.
+- Para cada nota es posible editarla.
 - Debe aplicarse el estilo apreciado en la imagen para las tareas ya realizadas.
 - Al crearse cada nota debe realizarse una animación.
 - Las notas se muestran ordenadas por prioridad (de más alta a más baja), de modo que al cambiar ésta se reordenan automáticamente.
