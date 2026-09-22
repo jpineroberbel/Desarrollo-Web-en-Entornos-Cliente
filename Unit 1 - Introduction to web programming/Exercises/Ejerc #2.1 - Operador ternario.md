@@ -46,7 +46,7 @@ Dada una variable `username` que puede contener una cadena de texto o los valore
 
 * **Ejemplo de entrada:** `username = null`
 * **Salida esperada:** `"Invitado"`
-* **Reto:** Evalúa la existencia del valor mediante el ternario sin recurrir aún al operador de fusión nula (`??`).
+
 
 ---
 
