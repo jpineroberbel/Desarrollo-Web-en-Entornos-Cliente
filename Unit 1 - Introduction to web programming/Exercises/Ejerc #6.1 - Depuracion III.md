@@ -1,6 +1,5 @@
 # Prácticas y Dinámicas de Depuración en JavaScript (JS)
 
-**Nivel:** Inicio de curso (Sintaxis básica, estructuras de control y bucles)  
 **Objetivo:** Aprender a rastrear el flujo de ejecución, identificar errores lógicos/sintácticos y utilizar las herramientas de desarrollo del navegador (*DevTools*).
 
 ---
