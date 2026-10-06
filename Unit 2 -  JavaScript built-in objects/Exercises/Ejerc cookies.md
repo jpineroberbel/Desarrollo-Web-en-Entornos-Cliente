@@ -16,24 +16,6 @@ Durante los ejercicios aprenderás a:
 * Utilizar cookies junto con HTML y JavaScript.
 * Crear una pequeña aplicación que recuerde información del usuario.
 
-### Material necesario
-
-Para realizar los ejercicios utiliza:
-
-* HTML
-* JavaScript
-* Un navegador web, preferiblemente Chrome o Firefox.
-* Las herramientas de desarrollador del navegador.
-
-Crea una carpeta para la actividad con esta estructura:
-
-```text
-cookies/
-├── index.html
-└── script.js
-```
-
----
 
 # Ejercicio 1 — Crear una cookie
 
